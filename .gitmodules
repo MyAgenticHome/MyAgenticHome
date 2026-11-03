@@ -1,0 +1,3 @@
+[submodule "bouffalo/bouffalo_sdk"]
+	path = bouffalo/bouffalo_sdk
+	url = ../../MyAgenticHome/bouffalo_sdk.git
